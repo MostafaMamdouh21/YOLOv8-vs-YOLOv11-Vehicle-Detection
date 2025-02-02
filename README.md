@@ -64,7 +64,7 @@ This project is licensed under the [MIT License](LICENSE).
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📧 Contact
-For any questions or feedback, feel free to reach out at mostafamamdouh340@gmail.com.
+For any questions or feedback, feel free to reach out at mostafamamdouh340@gmail.com
 
 ---
 
